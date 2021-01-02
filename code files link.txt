@@ -1,0 +1,5 @@
+Section 1: Hands-On Machine Learning using JavaScript ---> https://github.com/PacktPublishing/Hands-On-Machine-Learning-using-JavaScript
+
+Section 2: Hands-On Machine Learning with TensorFlow.js ---> https://github.com/PacktPublishing/Hands-on-Machine-Learning-with-TensorFlow.js
+
+Section 3: Deep Learning Projects with JavaScript ---> https://github.com/PacktPublishing/Deep-Learning-Projects-with-JavaScript
